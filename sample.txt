@@ -1,6 +1,9 @@
 hi 
-this is file to check mergeing ang rebasing.
-difffernce between them.
+This is a file to check mergeing ang rebasing.
+Difffernce between them.
 where to use.
+where to not.
+thanks you
+
 
 
