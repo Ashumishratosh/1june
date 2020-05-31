@@ -1,0 +1,6 @@
+hi 
+this is file to check mergeing ang rebasing.
+difffernce between them.
+where to use.
+
+
