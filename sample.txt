@@ -1,9 +1,10 @@
 hi 
 This is a file to check mergeing ang rebasing.
-Difffernce between them.
+Difffernce between merging and rebasing.
 where to use.
 where to not.
-thanks you
+real time scenario.
+Thanks you
 
 
 
